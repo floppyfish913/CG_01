@@ -1,0 +1,11 @@
+﻿Build started 2016. 10. 24. 23:06:56.
+     1>Project "C:\Users\Attila\Desktop\opengl\Programs\Skeleton\Skeleton\Skeleton.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\userapps\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Attila\Desktop\opengl\Programs\Skeleton\..\..\Libs\glew-1.13.0\include\\" /IC:\Users\Attila\Desktop\opengl\Programs\Skeleton\..\..\Libs\freeglut\include\ /I"C:\Users\Attila\Desktop\opengl\Programs\Skeleton\..\..\Libs\devil-1.7.8\include\\" /IC:\Users\Attila\Desktop\opengl\Programs\Skeleton\..\..\Libs\glm\ /IC:\Users\Attila\Desktop\opengl\Programs\Skeleton\..\..\Common\src\ /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Skeleton.cpp
+         Skeleton.cpp
+     1>c:\users\attila\desktop\opengl\programs\skeleton\skeleton\skeleton.cpp(288): error C2198: 'PFNGLDRAWARRAYSINSTANCEDPROC' : too few arguments for call
+     1>Done Building Project "C:\Users\Attila\Desktop\opengl\Programs\Skeleton\Skeleton\Skeleton.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.78
